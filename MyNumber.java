@@ -89,7 +89,7 @@ public class MyNumber {
                 System.out.println("Invalid number format. Please provide an integer.");
             }
         } else {
-            System.out.println("No command-line arguments provided.xxxxxxxxxxxxxxxxxxxx");
+            System.out.println("No command-line arguments provided.");
         }
     }
 }
